@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="0" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Tests" duration-ms="6" started-at="2015-05-15T21:34:37Z" finished-at="2015-05-15T21:34:37Z">
+  <suite name="Tests" duration-ms="5" started-at="2015-05-15T21:57:13Z" finished-at="2015-05-15T21:57:13Z">
     <groups>
     </groups>
-    <test name="Test1" duration-ms="6" started-at="2015-05-15T21:34:37Z" finished-at="2015-05-15T21:34:37Z">
+    <test name="Test1" duration-ms="5" started-at="2015-05-15T21:57:13Z" finished-at="2015-05-15T21:57:13Z">
       <class name="AgileFusion.pages.HomePageTest">
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:AgileFusion.pages.HomePageTest@b684286]" name="tearDown" is-config="true" duration-ms="16" started-at="2015-05-16T00:34:37Z" finished-at="2015-05-16T00:34:37Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:AgileFusion.pages.HomePageTest@b684286]" name="tearDown" is-config="true" duration-ms="15" started-at="2015-05-16T00:57:13Z" finished-at="2015-05-16T00:57:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
