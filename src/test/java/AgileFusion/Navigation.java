@@ -23,7 +23,7 @@ public class Navigation {
   @Before
   public void setUp() throws Exception {
     driver = new FirefoxDriver();
-    //System.setProperty("webdriver.chrome.driver", "/usr/bin/chromedriver");
+    System.setProperty("webdriver.chrome.driver", "/usr/bin/chromedriver");
     baseUrl = "http://af-web-dept-a.yurasov.me";
     System.out.println(driver.manage().window().getSize());
 	Dimension d = new Dimension(1920,1080);
